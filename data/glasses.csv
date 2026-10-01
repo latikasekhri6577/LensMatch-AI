@@ -1,0 +1,30 @@
+frame_id,frame_name,frame_style,suitable_shapes,avoid_shapes,material,color,price_range,image_filename
+100,Cat Eye Frame 1,Cat Eye,"Round,Square,Heart",Oval,Acetate,Silver,Mid,cateye_1.png
+101,Cat Eye Frame 2,Cat Eye,"Round,Square,Heart",Oval,Acetate,Gold,Premium,cateye_2.png
+102,Cat Eye Frame 3,Cat Eye,"Round,Square,Heart",Oval,Acetate,Clear,Budget,cateye_3.png
+103,Cat Eye Frame 4,Cat Eye,"Round,Square,Heart",Oval,Acetate,Brown,Mid,cateye_4.png
+104,Rectangle Frame 2,Rectangle,"Round,Oblong",Square,Acetate,Gunmetal,Premium,rectangle_2.png
+105,Rectangle Frame 3,Rectangle,"Round,Oblong",Square,Acetate,Black,Budget,rectangle_3.png
+106,Round Frame 1,Round,"Square,Oblong",Round,Acetate,Tortoise,Mid,round_1.png
+107,Round Frame 10,Round,"Square,Oblong",Round,Acetate,Silver,Premium,round_10.png
+108,Round Frame 11,Round,"Square,Oblong",Round,Acetate,Gold,Budget,round_11.png
+109,Round Frame 2,Round,"Square,Oblong",Round,Acetate,Clear,Mid,round_2.png
+110,Round Frame 3,Round,"Square,Oblong",Round,Acetate,Brown,Premium,round_3.png
+111,Round Frame 4,Round,"Square,Oblong",Round,Acetate,Gunmetal,Budget,round_4.png
+112,Round Frame 5,Round,"Square,Oblong",Round,Acetate,Black,Mid,round_5.png
+113,Round Frame 6,Round,"Square,Oblong",Round,Acetate,Tortoise,Premium,round_6.png
+114,Round Frame 7,Round,"Square,Oblong",Round,Acetate,Silver,Budget,round_7.png
+115,Round Frame 8,Round,"Square,Oblong",Round,Acetate,Gold,Mid,round_8.png
+116,Round Frame 9,Round,"Square,Oblong",Round,Acetate,Clear,Premium,round_9.png
+117,Square Frame 1,Square,"Oval,Heart",Square,Acetate,Brown,Budget,square_1.png
+118,Square Frame 3,Square,"Oval,Heart",Square,Acetate,Gunmetal,Mid,square_3.png
+119,Square Frame 4,Square,"Oval,Heart",Square,Acetate,Black,Premium,square_4.png
+120,Square Frame 5,Square,"Oval,Heart",Square,Acetate,Tortoise,Budget,square_5.png
+121,Wayfarer Frame 1,Wayfarer,"Oval,Round,Heart",Square,Acetate,Silver,Mid,wayfarer_1.png
+122,Wayfarer Frame 10,Wayfarer,"Oval,Round,Heart",Square,Acetate,Gold,Premium,wayfarer_10.png
+123,Wayfarer Frame 11,Wayfarer,"Oval,Round,Heart",Square,Acetate,Clear,Budget,wayfarer_11.png
+124,Wayfarer Frame 12,Wayfarer,"Oval,Round,Heart",Square,Acetate,Brown,Mid,wayfarer_12.png
+125,Wayfarer Frame 2,Wayfarer,"Oval,Round,Heart",Square,Acetate,Gunmetal,Premium,wayfarer_2.png
+126,Wayfarer Frame 3,Wayfarer,"Oval,Round,Heart",Square,Acetate,Black,Budget,wayfarer_3.png
+127,Wayfarer Frame 4,Wayfarer,"Oval,Round,Heart",Square,Acetate,Tortoise,Mid,wayfarer_4.png
+128,Wayfarer Frame 5,Wayfarer,"Oval,Round,Heart",Square,Acetate,Silver,Premium,wayfarer_5.png

@@ -1,0 +1,27 @@
+# Environment & secrets
+.env
+venv/
+test_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database (contains user data - don't commit)
+data/users.db
+
+# Generated training data (regenerate via training_scripts/build_dataset.py)
+features_train.csv
+features_test.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large dataset folders, if still present
+face_shape_dataset/
+FaceShape_Dataset/
+glasses_raw_dataset/
+glasses_filtered_raw/
+glasses_transparent/
+eyeglasses_extracted/
